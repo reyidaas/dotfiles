@@ -11,6 +11,9 @@ require('oil').setup({
     ["gx"] = "actions.open_external",
     ["g."] = { "actions.toggle_hidden", mode = "n" },
   },
+  view_options = {
+    show_hidden = true,
+  },
 })
 
 local function open_oil_in_split(split_cmd)
