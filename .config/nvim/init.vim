@@ -32,7 +32,8 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' 
 "Plug 'zenbones-theme/zenbones.nvim'
 Plug 'rktjmp/lush.nvim'
 "Plug 'savq/melange-nvim'
-Plug 'nyoom-engineering/oxocarbon.nvim'
+"Plug 'nyoom-engineering/oxocarbon.nvim'
+Plug 'sainnhe/everforest'
 Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 Plug 'stevearc/oil.nvim'
 

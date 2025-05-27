@@ -1,8 +1,5 @@
--- vim.g.everforest_better_performance = 1
--- vim.g.everforest_transparent_background = 1
--- vim.g.everforest_diagnostic_virtual_text = 'colored'
--- vim.g.everforest_colors_override = {
---   bg1 = { '#232A2E', '142' },
--- }
--- 
--- vim.cmd('colorscheme everforest')
+vim.g.everforest_background = "hard"
+vim.g.everforest_transparent_background = 1
+vim.g.everforest_float_style = "dim"
+
+vim.cmd.colorscheme("everforest")
