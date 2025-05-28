@@ -3,6 +3,7 @@ model: sonnet
 api-key:
   - anthropic=***
   - deepseek=***
+  - gemini=***
 user-input-color: "#83C092"
 tool-output-color: "#D3C6AA"
 tool-error-color: "#E67E80"
