@@ -1,0 +1,15 @@
+# dark-mode: true
+model: sonnet
+api-key:
+  - anthropic=***
+  - deepseek=***
+user-input-color: "#83C092"
+tool-output-color: "#D3C6AA"
+tool-error-color: "#E67E80"
+tool-warning-color: "#DBBC7F"
+assistant-output-color: "#7FBBB3"
+completion-menu-color: "#9DA9A0"
+completion-menu-bg-color: "#2E383C"
+completion-menu-current-color: "#D3C6AA"
+completion-menu-current-bg-color: "#493B40"
+code-theme: coffee
