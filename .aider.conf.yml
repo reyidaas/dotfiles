@@ -5,6 +5,7 @@ api-key:
   - deepseek=***
   - gemini=***
   - openai=***
+read: [".ai/CONVENTIONS.md"]
 user-input-color: "#83C092"
 tool-output-color: "#D3C6AA"
 tool-error-color: "#E67E80"
