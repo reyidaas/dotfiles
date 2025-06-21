@@ -1,10 +1,11 @@
 # dark-mode: true
-model: sonnet
+model: openrouter/anthropic/claude-sonnet-4
 api-key:
   - anthropic=***
   - deepseek=***
   - gemini=***
   - openai=***
+  - openrouter=***
 read: [".ai/CONVENTIONS.md"]
 user-input-color: "#83C092"
 tool-output-color: "#D3C6AA"
