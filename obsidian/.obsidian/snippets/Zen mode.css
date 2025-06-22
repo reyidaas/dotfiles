@@ -1,3 +1,3 @@
-.workspace-ribbon, .workspace-tab-header-container, .workspace-split.mod-left-split, .workspace-split.mod-right-split, .workspace-sidedock-vault-profile, .view-header, .cm-gutters {
+.workspace-ribbon, .workspace-split.mod-right-split, .workspace-sidedock-vault-profile, .view-header, .cm-gutters {
     display: none !important;
 }

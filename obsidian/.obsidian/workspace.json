@@ -112,26 +112,13 @@
             }
           },
           {
-            "id": "67909edd4b9b5d5e",
+            "id": "bb2c196cb3001aca",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Files/Drawing 2025-01-12 22.11.41.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-12 22.11.41.excalidraw"
-            }
-          },
-          {
-            "id": "26098b72052db65d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Source/Silesia Marathon 07-04-2025 00.23.md",
+                "file": "Zettelkasten/Source/Running 13-04-2025 18.12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -145,12 +132,13 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Silesia Marathon 07-04-2025 00.23"
+              "title": "Running 13-04-2025 18.12"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -307,36 +295,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26098b72052db65d",
+  "active": "bb2c196cb3001aca",
   "lastOpenFiles": [
     "Zettelkasten/Source/10xDevs - 06-04-2025 22.34.md",
-    "Zettelkasten/Source/Cortex Agent.md",
+    "Zettelkasten/Source/Running 13-04-2025 18.12.md",
+    "Quick notes/Quick note - 22-06-2025 11.07.md",
+    "Zettelkasten/Source/Quick note - 22-06-2025 11.07 2025-06-22 11.07.47.excalidraw.md",
+    "Files/Quick note - 22-06-2025 11.07 2025-06-22 11.07.47.excalidraw.md",
+    "Zettelkasten/Source/Software feature planning prompt 21-06-2025 12.13.md",
+    "Zettelkasten/Source/AI Keys 22-05-2025 16.33.md",
+    "Zettelkasten/Source/PRD prompts 24-05-2025 15.53.md",
+    "Tags/prompts.md",
+    "Zettelkasten/Source/Meta prompt 24-05-2025 15.08.md",
+    "Zettelkasten/Source/Improve prompt 20-06-2025 20.53.md",
+    "Zettelkasten/Source/Conversation summary prompt 20-06-2025 22.05.md",
+    "Zettelkasten/Source/Improve prompt (advanced) 20-06-2025 21.16.md",
+    "Zettelkasten/Source/Semantic Commits Cheatsheet 20-06-2025 00.29.md",
+    "Tags/git.md",
+    "Zettelkasten/Source/Mountain trails list 26-04-2025 15.32.md",
+    "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
+    "Cortex/Ala ma kota.md",
+    "Cortex/Aktualności wyborów prezydenckich w Polsce 2025.md",
+    "Quick notes/Mountain tourism - 15-03-2025 13.02.md",
     "Files/Drawing 2025-01-12 22.11.41.excalidraw.md",
-    "Quick notes/Shottr - 21-02-2025 23.31.md",
-    "Courses/AI Devs 1/Lessons/15 — Chodź, nauczę Cię!.md",
-    "Goals/Programming goals.md",
-    "Goals/Personal goals.md",
-    "Zettelkasten/Source/Slim app actions 04-04-2025 23.09.md",
-    "Zettelkasten/Source/Silesia Marathon 07-04-2025 00.23.md",
-    "Quick notes/Perplexity API test - 22-02-2025 13.18.md",
-    "Zettelkasten/Source/AI Devs 3.md",
-    "Tags/sport.md",
-    "Cortex/Free and Cheap PostgreSQL Hosting Solutions.md",
-    "Cortex/Overview of Lynx Mobile Framework.md",
-    "Tags/mountains.md",
-    "Cortex/Lynx Framework Overview.md",
+    "Zettelkasten/Source/Mountain Climbing course lvl 1 11-05-2025 23.39.md",
+    "Cortex/Latest OpenAI Models News.md",
+    "Entertainment/Activities list.md",
+    "Zettelkasten/Source/Pens 05-04-2025 17.59.md",
+    "Zettelkasten/Source/React Native screenshot protection 16-04-2025 22.55.md",
     "Cortex",
     "Courses/Untitled",
-    "Zettelkasten/Source/Pens 05-04-2025 17.59.md",
-    "Tags/slim-app.md",
-    "Quick notes/Quick note - 04-04-2025 01.23.md",
-    "Daily notes/04-04-2025.md",
-    "Templates/Basic note - Zet.md",
-    "Templates/Meeting.md",
-    "Quick notes/Turystyka górska - 15-03-2025 13.02.md",
-    "Zettelkasten/Source/Fabulous 03-04-2025 23.39.md",
-    "Templates/Blank.md",
-    "Zettelkasten/Source/Foo bar! 03-04-2025 23.38.md",
     "Files/Pasted Image 20250115172143_869.png",
     "Files/Pasted Image 20250115172127_205.png",
     "Files/Pasted Image 20250115171958_266.png",

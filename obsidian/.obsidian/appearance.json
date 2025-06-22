@@ -8,6 +8,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "hide-app-ribbon",
-    "Hide tabs"
+    "Hide tabs",
+    "Zen mode"
   ]
 }

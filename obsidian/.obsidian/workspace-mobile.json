@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entertainment/Activities list.md",
+                "file": "Zettelkasten/Source/20 minute running field test 13-04-2025 23.21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Activities list"
+              "title": "20 minute running field test 13-04-2025 23.21"
+            }
+          },
+          {
+            "id": "6731887869bc323a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Source/Ranking pierogów górskich - 20-04-2025 13.39.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ranking pierogów górskich - 20-04-2025 13.39"
+            }
+          },
+          {
+            "id": "e262eadd8d9e8767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Source/PRD prompts 24-05-2025 15.53.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PRD prompts 24-05-2025 15.53"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,12 +206,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7f12af677eec99f1",
+  "active": "e262eadd8d9e8767",
   "lastOpenFiles": [
+    "Zettelkasten/Source/Mountain Climbing course lvl 1 11-05-2025 23.39.md",
+    "Zettelkasten/Source/Ranking pierogów górskich - 20-04-2025 13.39.md",
+    "Zettelkasten/Source/20 minute running field test 13-04-2025 23.21.md",
+    "Zettelkasten/Source/React Native screenshot protection 16-04-2025 22.55.md",
+    "Zettelkasten/Source/Slim app actions 04-04-2025 23.09.md",
+    "Entertainment/Activities list.md",
     "Quick notes/Turystyka górska - 15-03-2025 13.02.md",
     "Cooking/Recipes list.md",
     "Tags/mountains.md",
@@ -184,12 +238,6 @@
     "Projects/Ideas/AI test generator.md",
     "Quick notes/Some title - 11-12-2024 02.21.md",
     "Quick notes/Quick note - 11-12-2024 02.20.md",
-    "Quick notes/This is test note - 08-12-2024 14.34.md",
-    "Quick notes/Prezenciki  - 10-12-2024 02.34.md",
-    "Quick notes/Quick note - 10-12-2024 02.31.md",
-    "Quick notes/Some shit  - 10-12-2024 02.31.md",
-    "Quick notes/Koszykarstwo  - 10-12-2024 02.28.md",
-    "Quick notes/Kazachstan - 10-12-2024 02.18.md",
     "Quick notes/Koszykarstwo  - 10-12-2024 02.28md.txt",
     "Quick notes/25-10-2024 00.46.txt",
     "Quick notes/299-10-2024 00.38.txt",

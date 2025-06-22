@@ -153,14 +153,6 @@
       "key": "Y"
     }
   ],
-  "obsidian-excalidraw-plugin:Downloaded/Reverse arrows": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "R"
-    }
-  ],
   "obsidian-excalidraw-plugin:Downloaded/Split text by lines": [
     {
       "modifiers": [
@@ -393,6 +385,14 @@
         "Mod"
       ],
       "key": "B"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Downloaded/Reverse arrows": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "J"
     }
   ]
 }
