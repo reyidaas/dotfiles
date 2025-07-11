@@ -33,7 +33,8 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' 
 Plug 'rktjmp/lush.nvim'
 "Plug 'savq/melange-nvim'
 "Plug 'nyoom-engineering/oxocarbon.nvim'
-Plug 'sainnhe/everforest'
+"Plug 'sainnhe/everforest'
+Plug 'folke/tokyonight.nvim'
 Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 Plug 'stevearc/oil.nvim'
 
