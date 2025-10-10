@@ -28,3 +28,8 @@
 
 -- Apply the colorscheme
 -- vim.cmd("colorscheme kanagawa")
+--
+-- Remove color flickering after starting neovim
+-- for _, group in ipairs(vim.fn.getcompletion("@lsp", "highlight")) do
+--   vim.api.nvim_set_hl(0, group, {})
+-- end
