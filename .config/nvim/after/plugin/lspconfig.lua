@@ -93,4 +93,5 @@ for _, lsp in ipairs(servers) do
     capabilities = capabilities,
     handlers = handlers,
   })
+  vim.lsp.enable(lsp)
 end
