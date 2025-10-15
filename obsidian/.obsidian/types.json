@@ -29,6 +29,7 @@
     "s": "multitext",
     "refs": "text",
     "sadf": "multitext",
-    "stat": "text"
+    "stat": "text",
+    "excalidraw-embed-md": "checkbox"
   }
 }

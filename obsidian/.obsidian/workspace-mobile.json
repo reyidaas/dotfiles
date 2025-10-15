@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "e262eadd8d9e8767",
+            "id": "79f933a72624c962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Source/PRD prompts 24-05-2025 15.53.md",
+                "file": "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PRD prompts 24-05-2025 15.53"
+              "title": "My sports gear 21-04-2025 15.58"
             }
           }
         ],
@@ -155,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quick notes/Turystyka górska - 15-03-2025 13.02.md",
+            "file": "Zettelkasten/Source/Software feature planning prompt 21-06-2025 12.13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
@@ -209,11 +210,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e262eadd8d9e8767",
+  "active": "79f933a72624c962",
   "lastOpenFiles": [
-    "Zettelkasten/Source/Mountain Climbing course lvl 1 11-05-2025 23.39.md",
+    "Quick notes/Dom - 16-09-2025 12.16.md",
+    "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
     "Zettelkasten/Source/Ranking pierogów górskich - 20-04-2025 13.39.md",
     "Zettelkasten/Source/20 minute running field test 13-04-2025 23.21.md",
+    "Zettelkasten/Source/Mountain trails list 26-04-2025 15.32.md",
+    "Quick notes/Mountain tourism - 15-03-2025 13.02.md",
+    "Zettelkasten/Source/Software feature planning prompt 21-06-2025 12.13.md",
+    "Tags/prompts.md",
+    "Zettelkasten/Source/PRD prompts 24-05-2025 15.53.md",
+    "Zettelkasten/Source/Mountain Climbing course lvl 1 11-05-2025 23.39.md",
     "Zettelkasten/Source/React Native screenshot protection 16-04-2025 22.55.md",
     "Zettelkasten/Source/Slim app actions 04-04-2025 23.09.md",
     "Entertainment/Activities list.md",
@@ -231,13 +239,6 @@
     "Quick notes/Prezenty boże narodzenie 2024 - 01-12-2024 17.34.md",
     "Zettelkasten/Source/Cortex Agent.md",
     "Goals/Work goals.md",
-    "Zettelkasten/Source/My Goals.md",
-    "Quick notes/Sylwester Zakopane - 22-12-2024 21.08.md",
-    "Private/Gift ideas/Natalia.md",
-    "Templates/Project idea.md",
-    "Projects/Ideas/AI test generator.md",
-    "Quick notes/Some title - 11-12-2024 02.21.md",
-    "Quick notes/Quick note - 11-12-2024 02.20.md",
     "Quick notes/Koszykarstwo  - 10-12-2024 02.28md.txt",
     "Quick notes/25-10-2024 00.46.txt",
     "Quick notes/299-10-2024 00.38.txt",

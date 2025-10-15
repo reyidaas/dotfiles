@@ -1,5 +1,5 @@
 {
-  "showActiveTabs": false,
+  "showActiveTabs": true,
   "autoUncollapseGroup": false,
   "hideSidebars": true,
   "sidebarTabTypes": [
@@ -9,7 +9,7 @@
   "trimTabNames": false,
   "showMoreButtons": false,
   "useTabEditing": true,
-  "zenMode": false,
+  "zenMode": true,
   "showActiveTabsInZenMode": true,
   "enableTabZoom": false,
   "enhancedKeyboardTabSwitch": false,
