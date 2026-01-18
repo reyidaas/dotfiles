@@ -7,7 +7,7 @@ Plug 'tpope/vim-rhubarb'
 "Plug 'cohama/lexima.vim'
 
 Plug 'neovim/nvim-lspconfig'
-Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate'  }
+Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate', 'branch': 'master'  }
 Plug 'hrsh7th/cmp-nvim-lsp'
 Plug 'hrsh7th/cmp-buffer'
 Plug 'hrsh7th/cmp-path'
@@ -62,6 +62,7 @@ set hlsearch
 set showcmd
 set cmdheight=1
 set winbar=%f
+set winborder=single
 set laststatus=2
 set scrolloff=10
 set expandtab
