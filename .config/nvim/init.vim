@@ -25,7 +25,7 @@ Plug 'dart-lang/dart-vim-plugin'
 Plug 'rose-pine/neovim', { 'as': 'rose-pine' }
 Plug 'christoomey/vim-tmux-navigator'
 "Plug 'sainnhe/gruvbox-material'
-"Plug 'rebelot/kanagawa.nvim'
+Plug 'rebelot/kanagawa.nvim'
 Plug 'github/copilot.vim'
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' }
 "Plug 'ramojus/mellifluous.nvim'
