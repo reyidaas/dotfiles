@@ -30,6 +30,7 @@
     "refs": "text",
     "sadf": "multitext",
     "stat": "text",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "excalidraw-export-internal-links": "checkbox"
   }
 }

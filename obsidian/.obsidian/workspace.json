@@ -114,6 +114,7 @@
           {
             "id": "bb2c196cb3001aca",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -131,18 +132,19 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "My sports gear 21-04-2025 15.58"
             }
           },
           {
-            "id": "13498a541dfcbd6e",
+            "id": "f396a27093fff97c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Source/rowerowe-store - 13-10-2025 00.29.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,11 +160,35 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "rowerowe-store - 13-10-2025 00.29"
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "34a8c5f4d9f6d461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/tag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tag"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#not_read",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "bb0751bebbe900c4",
@@ -297,9 +324,19 @@
               "icon": "lucide-list",
               "title": "Outline of 21-11-2024 00.47"
             }
+          },
+          {
+            "id": "02d67dc538883ec5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -319,34 +356,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "13498a541dfcbd6e",
+  "active": "34a8c5f4d9f6d461",
   "lastOpenFiles": [
+    "Inbox.md",
+    "Quick notes/Quick note - 24-01-2026 15.09.md",
+    "Zettelkasten/Source/some note hey 24-01-2026 15.09.md",
+    "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
+    "Zettelkasten/Source/10xDevs - 06-04-2025 22.34.md",
+    "Files/Inbox 2026-01-23 23.21.04.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
+    "Files/Inbox 2026-01-23 23.14.29.excalidraw.md",
+    "Files/Inbox 2026-01-23 22.50.29.excalidraw.md",
+    "Files/Inbox 2026-01-23 22.38.46.excalidraw.md",
+    "Files/Inbox 2026-01-23 22.25.55.excalidraw.md",
+    "Files/Inbox 2026-01-23 18.14.23.excalidraw.md",
+    "Zettelkasten/Source/rowerowe-store - 13-10-2025 00.29.md",
+    "Goals/Programming goals.md",
+    "Files/Inbox 2026-01-23 18.11.56.excalidraw.md",
+    "Quick notes/test quicky - 15-10-2025 21.57.md",
+    "Quick notes/Quick note - 15-10-2025 21.56.md",
+    "Meetings/Meeting - janusz attendant 15-10-2025.md",
+    "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.55.49.excalidraw.md",
+    "Zettelkasten/Source/test blank 15-10-2025 21.55.md",
+    "Quick notes/Quick note - 15-10-2025 21.54.md",
+    "Zettelkasten/Source/Cortex Agent.md",
+    "Goals/Personal goals.md",
     "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.35.09.excalidraw.md",
     "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.35.14.excalidraw.md",
     "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.35.15.excalidraw.md",
-    "Files/Drawing 2025-10-15 21.35.16.excalidraw.md",
-    "Files/Drawing 2025-10-15 21.35.17.excalidraw.md",
-    "Zettelkasten/Source/rowerowe-store - 13-10-2025 00.29.md",
-    "Goals/Programming goals.md",
-    "Zettelkasten/Source/Untitled.md",
-    "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
-    "Zettelkasten/Source/Running 13-04-2025 18.12.md",
-    "Zettelkasten/Source/Prezentacja o AI - pomysły .md",
-    "Tags/ai.md",
-    "Zettelkasten/Source/Car services - 18-09-2025 21.27.md",
-    "Zettelkasten/Source/10xDevs - 06-04-2025 22.34.md",
-    "Quick notes/Mountain tourism - 15-03-2025 13.02.md",
-    "Quick notes/Quick note - 22-06-2025 11.07.md",
-    "Zettelkasten/Source/Quick note - 22-06-2025 11.07 2025-06-22 11.07.47.excalidraw.md",
-    "Files/Quick note - 22-06-2025 11.07 2025-06-22 11.07.47.excalidraw.md",
-    "Zettelkasten/Source/Software feature planning prompt 21-06-2025 12.13.md",
-    "Zettelkasten/Source/AI Keys 22-05-2025 16.33.md",
-    "Zettelkasten/Source/PRD prompts 24-05-2025 15.53.md",
-    "Tags/prompts.md",
-    "Zettelkasten/Source/Meta prompt 24-05-2025 15.08.md",
-    "Zettelkasten/Source/Improve prompt 20-06-2025 20.53.md",
-    "Zettelkasten/Source/Conversation summary prompt 20-06-2025 22.05.md",
-    "Zettelkasten/Source/Improve prompt (advanced) 20-06-2025 21.16.md",
     "Cortex",
     "Courses/Untitled",
     "Files/Pasted Image 20250115172143_869.png",
@@ -365,7 +403,6 @@
     "Files/BC43E8F3-0BBF-4E13-A4AA-DB834704DD7D_1_201_a.heic",
     "Quick notes/299-10-2024 00.38.txt",
     "Files/Pasted image 20241024234448.jpg",
-    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg"
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg"
   ]
 }

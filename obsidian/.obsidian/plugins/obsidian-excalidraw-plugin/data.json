@@ -1,4 +1,6 @@
 {
+  "copyLinkToElemenetAnchorTo100": false,
+  "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
   "folder": "Files",
   "cropFolder": "",
@@ -38,6 +40,8 @@
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
+  "desktopUIMode": "full",
+  "tabletUIMode": "compact",
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
   "matchThemeAlways": false,
@@ -71,6 +75,7 @@
   "focusOnFileTab": false,
   "openInMainWorkspace": true,
   "showLinkBrackets": true,
+  "syncElementLinkWithText": false,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
@@ -107,7 +112,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.16.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.19.2",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -197,11 +202,281 @@
         "value": 0,
         "description": "Number of line points between start and end"
       }
+    },
+    "Downloaded/Mindmap Builder": {
+      "Hotkeys": {
+        "value": [
+          {
+            "action": "Add",
+            "key": "Enter",
+            "modifiers": [],
+            "scope": 3,
+            "isInputOnly": true
+          },
+          {
+            "action": "Add Next Sibling",
+            "key": "Enter",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 3,
+            "isInputOnly": true
+          },
+          {
+            "action": "Add Prev Sibling",
+            "key": "Enter",
+            "modifiers": [
+              "Alt",
+              "Shift"
+            ],
+            "scope": 3,
+            "isInputOnly": true
+          },
+          {
+            "action": "Add + follow",
+            "key": "Enter",
+            "modifiers": [
+              "Mod",
+              "Alt"
+            ],
+            "scope": 3,
+            "isInputOnly": true
+          },
+          {
+            "action": "Add + follow + focus",
+            "key": "Enter",
+            "modifiers": [
+              "Mod"
+            ],
+            "scope": 3,
+            "isInputOnly": true
+          },
+          {
+            "action": "Add + follow + zoom",
+            "key": "Enter",
+            "modifiers": [
+              "Mod",
+              "Shift"
+            ],
+            "scope": 3,
+            "isInputOnly": true
+          },
+          {
+            "action": "Dock/Undock",
+            "key": "Enter",
+            "modifiers": [
+              "Shift"
+            ],
+            "scope": 3,
+            "isInputOnly": true
+          },
+          {
+            "action": "Dock & hide",
+            "key": "Escape",
+            "modifiers": [],
+            "scope": 2,
+            "isInputOnly": true
+          },
+          {
+            "action": "Edit node",
+            "code": "KeyE",
+            "modifiers": [
+              "Mod"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Pin/Unpin",
+            "code": "KeyP",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Box/Unbox",
+            "code": "KeyB",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Toggle Boundary",
+            "code": "KeyB",
+            "modifiers": [
+              "Alt",
+              "Shift"
+            ],
+            "scope": 2,
+            "inputOnly": false
+          },
+          {
+            "action": "Group/Ungroup Single Branch",
+            "code": "KeyG",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Copy",
+            "code": "KeyC",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Cut",
+            "code": "KeyX",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Paste",
+            "code": "KeyV",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Import Outline from Linked File",
+            "code": "KeyI",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Rearrange Map",
+            "code": "KeyR",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Cycle Zoom",
+            "code": "KeyZ",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Focus (center) node",
+            "code": "KeyF",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Navigate",
+            "key": "ArrowKeys",
+            "modifiers": [
+              "Alt"
+            ],
+            "isNavigation": true,
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Navigate & zoom",
+            "key": "ArrowKeys",
+            "modifiers": [
+              "Alt",
+              "Shift"
+            ],
+            "isNavigation": true,
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Navigate & focus",
+            "key": "ArrowKeys",
+            "modifiers": [
+              "Alt",
+              "Mod"
+            ],
+            "isNavigation": true,
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Change Order/Promote Node",
+            "code": "ArrowKeys",
+            "modifiers": [
+              "Mod"
+            ],
+            "isNavigation": true,
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Fold/Unfold Branch",
+            "code": "Digit1",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Fold/Unfold to Level 1",
+            "code": "Digit2",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          },
+          {
+            "action": "Fold/Unfold Branch Recursively",
+            "code": "Digit3",
+            "modifiers": [
+              "Alt"
+            ],
+            "scope": 2,
+            "isInputOnly": false
+          }
+        ],
+        "hidden": true
+      },
+      "Box Children": {
+        "value": false,
+        "hidden": false
+      },
+      "Rounded Corners": {
+        "value": false,
+        "hidden": false
+      },
+      "Group Branches": {
+        "value": false,
+        "hidden": false
+      },
+      "Is Undocked": {
+        "value": true,
+        "hidden": false
+      }
     }
   },
-  "defaultTrayMode": false,
-  "compactModeOnTablets": true,
-  "previousRelease": "2.16.1",
+  "previousRelease": "2.19.2",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -210,6 +485,9 @@
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
+  "sidepanelTabs": [
+    "{\"script\":\"Downloaded/Mindmap Builder\",\"title\":\"Mind Map Builder\"}"
+  ],
   "customPens": [
     {
       "type": "default",
@@ -522,7 +800,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 7,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
@@ -560,6 +838,7 @@
   "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
+  "openAIDefaultTextModelMaxTokens": 4096,
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
   "openAIURL": "https://api.openai.com/v1/chat/completions",
@@ -881,5 +1160,8 @@
     "alignment": "center",
     "margin": "normal"
   },
+  "disableContextMenu": false,
+  "defaultTrayMode": false,
+  "compactModeOnTablets": true,
   "autosaveInterval": 10000
 }

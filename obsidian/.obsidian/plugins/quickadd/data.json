@@ -707,13 +707,14 @@
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "Templates",
-  "announceUpdates": true,
-  "version": "2.5.0",
+  "announceUpdates": "all",
+  "version": "2.9.4",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
   "enableTemplatePropertyTypes": false,
   "ai": {
     "defaultModel": "Ask me",
@@ -754,7 +755,8 @@
             "name": "text-davinci-003",
             "maxTokens": 4096
           }
-        ]
+        ],
+        "modelSource": "auto"
       }
     ]
   },
@@ -766,6 +768,7 @@
     "setVersionAfterUpdateModalRelease": true,
     "addDefaultAIProviders": true,
     "removeMacroIndirection": true,
-    "migrateFileOpeningSettings": true
+    "migrateFileOpeningSettings": true,
+    "setProviderModelDiscoveryMode": true
   }
 }

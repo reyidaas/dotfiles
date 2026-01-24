@@ -1,2 +1,2 @@
-> tags: 
+> tags: [[tag]]
 > status: #tag

@@ -1,5 +1,5 @@
 {
-  "showActiveTabs": true,
+  "showActiveTabs": false,
   "autoUncollapseGroup": false,
   "hideSidebars": true,
   "sidebarTabTypes": [
@@ -9,7 +9,7 @@
   "trimTabNames": false,
   "showMoreButtons": false,
   "useTabEditing": true,
-  "zenMode": true,
+  "zenMode": false,
   "showActiveTabsInZenMode": true,
   "enableTabZoom": false,
   "enhancedKeyboardTabSwitch": false,
@@ -30,5 +30,11 @@
   "missionControlViewZoomFactor": 0.5,
   "disablePointerInMissionControlView": true,
   "backgroundMode": false,
+  "scrollableTabs": true,
+  "scrollableTabsMinWidth": 100,
+  "autoHideHorizontalTabs": false,
+  "disableOnThisDevice": false,
+  "enableUpdateCheck": true,
+  "showNewTabButtonAtBottom": false,
   "installationID": "Ge-eedCjIGAgcIYnXlxWQ"
 }
