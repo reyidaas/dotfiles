@@ -56,6 +56,20 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "8acb4e9b11c3386f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Files/Inbox - drawing.excalidraw.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Inbox - drawing.excalidraw"
+            }
           }
         ],
         "currentTab": 1
@@ -143,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox.md",
+            "file": "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
@@ -200,11 +215,16 @@
   },
   "active": "cd506f385d5f055c",
   "lastOpenFiles": [
-    "Files/Inbox 2026-01-23 22.50.29.excalidraw.md",
-    "Inbox.md",
     "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
-    "Zettelkasten/Source/20 minute running field test 13-04-2025 23.21.md",
+    "Inbox.md",
+    "Files/Inbox - drawing.excalidraw.md",
     "Zettelkasten/Source/10xDevs - 06-04-2025 22.34.md",
+    "Files/Drawing 2026-01-24 18.06.31.excalidraw.md",
+    "Templates/tag.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
+    "Files/Inbox 2026-01-23 22.50.29.excalidraw.md",
+    "Zettelkasten/Source/20 minute running field test 13-04-2025 23.21.md",
     "Quick notes/Dom - 16-09-2025 12.16.md",
     "Zettelkasten/Source/Ranking pierogów górskich - 20-04-2025 13.39.md",
     "Zettelkasten/Source/Mountain trails list 26-04-2025 15.32.md",
@@ -222,11 +242,7 @@
     "Quick notes/Shottr - 21-02-2025 23.31.md",
     "Quick notes/How do I feel  - 06-03-2025 10.21.md",
     "Quick notes/Car repair expenses - 15-01-2025 19.03.md",
-    "Projects/Ideas/Prompt versioner.md",
-    "Projects/Ideas/Feed and articles aggregator.md",
     "Projects/Ideas/Feed ",
-    "Goals/Personal goals.md",
-    "Goals/Programming goals.md",
     "Quick notes/Koszykarstwo  - 10-12-2024 02.28md.txt",
     "Quick notes/25-10-2024 00.46.txt",
     "Quick notes/299-10-2024 00.38.txt",
@@ -240,7 +256,6 @@
     "Excalidraw/Scripts/Downloaded/Reverse arrows.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",

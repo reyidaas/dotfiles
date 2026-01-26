@@ -5,10 +5,10 @@ yabai -m config window_placement second_child
 yabai -m config window_shadow float
 
 yabai -m config window_gap 7
-yabai -m config bottom_padding 3
-yabai -m config left_padding 3
-yabai -m config right_padding 3
-yabai -m config top_padding 3
+yabai -m config bottom_padding 20
+yabai -m config left_padding 20
+yabai -m config right_padding 20
+yabai -m config top_padding 0
 
 # MOUSE
 
@@ -24,5 +24,6 @@ yabai -m config mouse_action1 move
 # set modifier + right-click drag to resize window (default: resize)
 yabai -m config mouse_action2 resize
 
-# borders active_color=0xffe1e3e4 inactive_color=0xff494d64 width=1.5 &
+# borders active_color=0xffe1e3e6 inactive_color=0xff494d64 width=1.5 &
+
 yabai -m rule --add app="^(Raycast|System Settings|Finder|QuickTime Player|Simulator|quemu-system-aarch64|Terminal|Obsidian)$" manage=off

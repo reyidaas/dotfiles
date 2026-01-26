@@ -211,15 +211,6 @@
       "key": "P"
     }
   ],
-  "snippet-commands-obsidian:snippet-command-Zen mode": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-excalidraw-plugin:Downloaded/Box Each Selected Groups": [
     {
       "modifiers": [
@@ -402,6 +393,15 @@
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "obsidian-minimal-settings:toggle-minimal-focus-mode": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "Z"
     }
   ]
 }

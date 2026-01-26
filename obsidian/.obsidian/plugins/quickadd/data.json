@@ -595,7 +595,7 @@
       "name": "Add tag",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/Tag.md",
+      "templatePath": "Templates/tag.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{name}}"

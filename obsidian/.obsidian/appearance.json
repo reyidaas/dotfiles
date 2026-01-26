@@ -1,14 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "interfaceFontFamily": "iA Writer Duo S",
+  "textFontFamily": "iA Writer Duo S",
   "monospaceFontFamily": "",
   "translucency": false,
   "enabledCssSnippets": [
     "hide-app-ribbon",
-    "Hide tabs",
-    "Zen mode"
+    "Hide tabs"
   ]
 }

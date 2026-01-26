@@ -8,110 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b49e716edbeb83d4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Programming goals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Programming goals"
-            }
-          },
-          {
-            "id": "2a6c644dbe36a714",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Personal goals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Personal goals"
-            }
-          },
-          {
-            "id": "87379e2c77648560",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Source/Cortex Agent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Cortex Agent"
-            }
-          },
-          {
-            "id": "9a67326c40c7bb6d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Source/10xDevs - 06-04-2025 22.34.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "10xDevs - 06-04-2025 22.34"
-            }
-          },
-          {
             "id": "bb2c196cb3001aca",
             "type": "leaf",
             "pinned": true,
@@ -164,31 +60,21 @@
             }
           },
           {
-            "id": "34a8c5f4d9f6d461",
+            "id": "dcf6003a8cba5d3c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Templates/tag.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Files/Inbox - drawing.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "tag"
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Inbox - drawing.excalidraw"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,16 +239,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "34a8c5f4d9f6d461",
+  "active": "f396a27093fff97c",
   "lastOpenFiles": [
+    "Files/Inbox - drawing.excalidraw.md",
+    "Zettelkasten/Source/Lofree Flow 2 - 25-01-2026 15.31.md",
+    "Tags/hardware.md",
     "Inbox.md",
+    "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
+    "Templates/tag.md",
+    "Zettelkasten/Source/rowerowe-store - 13-10-2025 00.29.md",
+    "Zettelkasten/Source/roadmap.sh 25-01-2026 15.28.md",
+    "Zettelkasten/Source/().md",
+    "Files/Drawing 2025-01-12 22.11.41.excalidraw.md",
+    "Files/Pasted Image 20250115172127_205.png",
+    "Files/Pasted Image 20250115172143_869.png",
+    "Goals/Personal goals.md",
+    "Goals/Programming goals.md",
+    "Zettelkasten/Source/Cortex Agent.md",
+    "Zettelkasten/Source/10xDevs - 06-04-2025 22.34.md",
+    "Files/Inbox 2026-01-24 18.57.52.excalidraw.md",
+    "Files/Drawing 2026-01-24 18.06.31.excalidraw.md",
+    "Files/Inbox 2026-01-24 18.03.57.excalidraw.md",
+    "Files/Inbox 2026-01-24 16.29.32.excalidraw.md",
     "Quick notes/Quick note - 24-01-2026 15.09.md",
     "Zettelkasten/Source/some note hey 24-01-2026 15.09.md",
-    "Zettelkasten/Source/My sports gear 21-04-2025 15.58.md",
-    "Zettelkasten/Source/10xDevs - 06-04-2025 22.34.md",
     "Files/Inbox 2026-01-23 23.21.04.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
@@ -370,25 +274,8 @@
     "Files/Inbox 2026-01-23 22.50.29.excalidraw.md",
     "Files/Inbox 2026-01-23 22.38.46.excalidraw.md",
     "Files/Inbox 2026-01-23 22.25.55.excalidraw.md",
-    "Files/Inbox 2026-01-23 18.14.23.excalidraw.md",
-    "Zettelkasten/Source/rowerowe-store - 13-10-2025 00.29.md",
-    "Goals/Programming goals.md",
-    "Files/Inbox 2026-01-23 18.11.56.excalidraw.md",
-    "Quick notes/test quicky - 15-10-2025 21.57.md",
-    "Quick notes/Quick note - 15-10-2025 21.56.md",
-    "Meetings/Meeting - janusz attendant 15-10-2025.md",
-    "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.55.49.excalidraw.md",
-    "Zettelkasten/Source/test blank 15-10-2025 21.55.md",
-    "Quick notes/Quick note - 15-10-2025 21.54.md",
-    "Zettelkasten/Source/Cortex Agent.md",
-    "Goals/Personal goals.md",
-    "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.35.09.excalidraw.md",
-    "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.35.14.excalidraw.md",
-    "Files/rowerowe-store - 13-10-2025 00.29 2025-10-15 21.35.15.excalidraw.md",
     "Cortex",
     "Courses/Untitled",
-    "Files/Pasted Image 20250115172143_869.png",
-    "Files/Pasted Image 20250115172127_205.png",
     "Files/Pasted Image 20250115171958_266.png",
     "Files/Pasted Image 20250115171935_097.png",
     "Goals",
