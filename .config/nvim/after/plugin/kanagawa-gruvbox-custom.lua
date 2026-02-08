@@ -22,9 +22,9 @@ require("kanagawa").setup({
       bg0 = "#32302f",
       bg1 = "#3c3836",
       bg2 = "#504945",
-      bg_visual = "#45403d",     -- For visual selection
-      bg_yellow = "#d8a657",     -- For search highlights
-      bg_red = "#ea6962",        -- For current search
+      bg_visual = "#45403d", -- For visual selection
+      bg_yellow = "#d8a657", -- For search highlights
+      bg_red = "#ea6962",    -- For current search
     }
 
     return {
@@ -36,6 +36,12 @@ require("kanagawa").setup({
       Boolean = { fg = gruvbox.purple },
       Constant = { fg = gruvbox.purple },
       Number = { fg = gruvbox.purple }, -- Makes 3000, numbers pop a bit more
+      ["@boolean"] = { fg = gruvbox.purple },
+      ["@constant"] = { fg = gruvbox.purple },
+      ["@constant.builtin"] = { fg = gruvbox.purple }, -- null, undefined, etc
+      ["@number"] = { fg = gruvbox.purple },
+      ["@lsp.type.enumMember"] = { fg = gruvbox.purple },
+
 
       Keyword = { fg = gruvbox.red },
       ["@keyword.return"] = { bold = true },
