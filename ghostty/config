@@ -41,12 +41,13 @@
 # # which is explained in the docs for that config option.
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
-theme = Tokyonight Night
+theme = Gruvbox Material
 macos-titlebar-style = hidden
 shell-integration-features = no-cursor
 cursor-style = block
 cursor-style-blink = false
 mouse-scroll-multiplier = 0
 font-feature = -calt,-liga,-dlig
+font-size=14 
 keybind = alt+right=unbind
 keybind = alt+left=unbind
