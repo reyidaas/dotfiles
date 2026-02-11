@@ -22,21 +22,21 @@ Plug 'mhartington/formatter.nvim'
 Plug 'nvim-lualine/lualine.nvim'
 Plug 'windwp/nvim-ts-autotag'
 Plug 'dart-lang/dart-vim-plugin'
-Plug 'rose-pine/neovim', { 'as': 'rose-pine' }
 Plug 'christoomey/vim-tmux-navigator'
-"Plug 'sainnhe/gruvbox-material'
-Plug 'rebelot/kanagawa.nvim'
 Plug 'github/copilot.vim'
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' }
+Plug 'rktjmp/lush.nvim'
+Plug 'rebelot/kanagawa.nvim'
+Plug 'sainnhe/gruvbox-material'
 "Plug 'ramojus/mellifluous.nvim'
 "Plug 'zenbones-theme/zenbones.nvim'
-Plug 'rktjmp/lush.nvim'
-"Plug 'savq/melange-nvim'
-"Plug 'nyoom-engineering/oxocarbon.nvim'
+Plug 'savq/melange-nvim'
+Plug 'rose-pine/neovim', { 'as': 'rose-pine' }
+"Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 "Plug 'sainnhe/everforest'
 Plug 'folke/tokyonight.nvim'
-Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 Plug 'stevearc/oil.nvim'
+Plug 'NeogitOrg/neogit'
 
 call plug#end()
 
@@ -167,13 +167,14 @@ autocmd FileType python map <buffer><leader>pp :w<CR>:exec '!python3' shellescap
 
 nnoremap <silent>+ :vertical resize +5<CR>
 nnoremap <silent>- :vertical resize -5<CR>
-nnoremap <silent>[ :resize -5<CR>
-nnoremap <silent>] :resize +5<CR>
+nnoremap <silent># :resize -5<CR>
+nnoremap <silent>= :resize +5<CR>
 " nnoremap <silent><leader>ve :Vex<CR>
 " nnoremap <silent><leader>ee :Exp<CR>
 " nnoremap <silent><leader>he :Sex<CR>
 nnoremap <silent><leader>,m :G mergetool<CR>
 nnoremap <silent><leader>,b :G blame<CR>
+nnoremap <silent><leader>,g :G<CR>
 nnoremap <silent><leader>,s :Gvdiffsplit!<CR>
 nnoremap <silent><leader>,h :diffget //2<CR>
 nnoremap <silent><leader>,l :diffget //3<CR>
@@ -226,6 +227,8 @@ nnoremap n nzzzv
 nnoremap N Nzzzv
 nnoremap <C-d> <C-d>zz
 nnoremap <C-u> <C-u>zz
+nnoremap { {zz
+nnoremap } }zz
 nnoremap J mzJ`z
 
 " Theme
