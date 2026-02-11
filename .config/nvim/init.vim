@@ -36,7 +36,6 @@ Plug 'rose-pine/neovim', { 'as': 'rose-pine' }
 "Plug 'sainnhe/everforest'
 Plug 'folke/tokyonight.nvim'
 Plug 'stevearc/oil.nvim'
-Plug 'NeogitOrg/neogit'
 
 call plug#end()
 

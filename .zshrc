@@ -115,9 +115,11 @@ bindkey '\ed' fzf-cd-widget
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias vim="/opt/homebrew/bin/nvim"
+alias lg="$(which lazygit)"
+alias python="/opt/homebrew/bin/python3"
 alias notes="cd /Users/mrejdych/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Personal"
 alias obsdn="cd ~/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/Personal/"
-alias python="/opt/homebrew/bin/python3"
+alias utmctl="/Applications/UTM.app/Contents/MacOS/utmctl"
 
 # bun completions
 [ -s "/Users/mrejdych/.bun/_bun" ] && source "/Users/mrejdych/.bun/_bun"
@@ -125,3 +127,5 @@ alias python="/opt/homebrew/bin/python3"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+. "$HOME/.local/bin/env"
