@@ -40,6 +40,10 @@ Plug 'stevearc/oil.nvim'
 
 call plug#end()
 
+" Load custom commands
+lua require('commands/GitChangedFiles')
+
+
 " Fundamentals "{{{
 " ---------------------------------------------------------------------
 
@@ -174,6 +178,7 @@ nnoremap <silent>= :resize +5<CR>
 " nnoremap <silent><leader>he :Sex<CR>
 nnoremap <silent><leader>,m :G mergetool<CR>
 nnoremap <silent><leader>,d :G difftool<CR>
+nnoremap <silent><leader>,D :GitChangedFiles<CR>
 " nnoremap <silent><leader>,b :G blame<CR>
 nnoremap <silent><leader>,g :G<CR>
 nnoremap <silent><leader>,s :Gvdiffsplit!<CR>
