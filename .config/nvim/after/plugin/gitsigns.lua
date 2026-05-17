@@ -87,7 +87,7 @@ require('gitsigns').setup {
     --
     -- map('n', '<leader>hS', gitsigns.stage_buffer)
     -- map('n', '<leader>hR', gitsigns.reset_buffer)
-    map('n', '<leader>,r', gitsigns.preview_hunk)
+    map('n', '<leader>,f', gitsigns.preview_hunk)
     -- map('n', '<leader>,r', gitsigns.preview_hunk_inline)
 
     map('n', '<leader>,b', function()
@@ -96,9 +96,9 @@ require('gitsigns').setup {
 
     map('n', '<leader>,B', gitsigns.blame)
 
-    map('n', '<leader>,d', gitsigns.diffthis)
+    map('n', '<leader>,r', gitsigns.diffthis)
 
-    map('n', '<leader>,D', function()
+    map('n', '<leader>,R', function()
       gitsigns.diffthis('~')
     end)
 
