@@ -4,6 +4,7 @@ call plug#begin('~/.config/nvim/plugged')
 
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
+Plug 'lewis6991/gitsigns.nvim'
 "Plug 'cohama/lexima.vim'
 
 Plug 'neovim/nvim-lspconfig'
@@ -172,7 +173,7 @@ nnoremap <silent>= :resize +5<CR>
 " nnoremap <silent><leader>ee :Exp<CR>
 " nnoremap <silent><leader>he :Sex<CR>
 nnoremap <silent><leader>,m :G mergetool<CR>
-nnoremap <silent><leader>,b :G blame<CR>
+" nnoremap <silent><leader>,b :G blame<CR>
 nnoremap <silent><leader>,g :G<CR>
 nnoremap <silent><leader>,s :Gvdiffsplit!<CR>
 nnoremap <silent><leader>,h :diffget //2<CR>
